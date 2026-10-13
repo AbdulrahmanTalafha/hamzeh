@@ -9,6 +9,7 @@ abood.php
 hamzeh.php
 # Distribution / packaging
 .Python
+sss 
 build/
 develop-eggs/
 dist/
